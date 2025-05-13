@@ -1,0 +1,7 @@
+Bài toán dự đoán tử vong của bệnh nhân suy tim bằng một số mô hình học máy
+Các mô hình học máy dc sử dung
+	Hồi quy Logistic (RL)
+	K - Nearest Neightbors (KNN)
+	Cây quyết dinh (DT) 
+
+	
